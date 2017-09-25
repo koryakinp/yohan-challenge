@@ -1,0 +1,11 @@
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\bin\Debug\netcoreapp2.0\yohan-challenge.deps.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\bin\Debug\netcoreapp2.0\yohan-challenge.runtimeconfig.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\bin\Debug\netcoreapp2.0\yohan-challenge.runtimeconfig.dev.json
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\bin\Debug\netcoreapp2.0\yohan-challenge.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\bin\Debug\netcoreapp2.0\yohan-challenge.pdb
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\obj\Debug\netcoreapp2.0\yohan-challenge.csprojResolveAssemblyReference.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\obj\Debug\netcoreapp2.0\yohan-challenge.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\obj\Debug\netcoreapp2.0\yohan-challenge.AssemblyInfoInputs.cache
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\obj\Debug\netcoreapp2.0\yohan-challenge.AssemblyInfo.cs
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\obj\Debug\netcoreapp2.0\yohan-challenge.dll
+C:\Users\pavelkoryakin\Documents\Visual Studio 2017\Projects\yohan-challenge\yohan-challenge\obj\Debug\netcoreapp2.0\yohan-challenge.pdb
