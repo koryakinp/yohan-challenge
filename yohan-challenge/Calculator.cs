@@ -56,7 +56,7 @@ namespace yohan_challenge
 
         public void PrintSolution()
         {
-            List<StepTransaction> solutions = x[1].Where(q => q.PartialSum == 0 && q.Value > 0).ToList();
+            List<StepTransaction> solutions = x[1].Where(q => q.PartialSum == 0 && q.Operand == "+").ToList();
 
             foreach (var item in solutions)
             {
