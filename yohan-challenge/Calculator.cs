@@ -8,15 +8,17 @@ namespace yohan_challenge
     {
         public readonly Dictionary<int, List<StepTransaction>> x;
         public readonly Dictionary<int, List<int>> y;
+        private readonly int _sum;
 
-        public Calculator()
+        public Calculator(int sum)
         {
+            _sum = sum;
             x = new Dictionary<int, List<StepTransaction>>()
             {
                 {
                     10, new List<StepTransaction>()
                     {
-                        new StepTransaction(100, string.Empty, 0, Guid.NewGuid(), 10)
+                        new StepTransaction(_sum, string.Empty, 0, Guid.NewGuid(), 10)
                     }
                 }
             };
@@ -61,7 +63,7 @@ namespace yohan_challenge
             foreach (var item in solutions)
             {
                 PrintSolutionItemRecursive(item, true);
-                Console.Write($"=100{Environment.NewLine}");
+                Console.Write($"={_sum}{Environment.NewLine}");
             }
         }
 
